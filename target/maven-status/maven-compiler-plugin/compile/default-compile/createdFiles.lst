@@ -1,0 +1,14 @@
+Livrariasrsdto\LivroDTO.class
+com\livrariasrs\livrosrs\LivrosrsApplication.class
+securitylivrariasrs\SecurityConfig.class
+exceptionlivrariasrs\GlobalExceptionHandler.class
+servicelivrariasrs\LivroService.class
+com\livrariasrs\livrosrs\Autor.class
+configlivrariasrs\SwaggerConfig.class
+com\livrariasrs\livrosrs\Livro.class
+repositorylivrariasrs\AutorRepository.class
+repositorylivrariasrs\LivroRepository.class
+Controllerlivrariasrs\LivroController.class
+servicelivrariasrs\AutorService.class
+Controllerlivrariasrs\AutorController.class
+Livrariasrsdto\AutorDTO.class
